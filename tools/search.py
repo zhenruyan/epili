@@ -8,4 +8,4 @@ def main(name):
 if __name__ == "__main__":
     build.build_json()
     build.build_db()
-    main(sys.argv[1])
+    main(sys.argv)
