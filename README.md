@@ -4,7 +4,8 @@
 
 >  收集霹雳人物和诗号
 
-!['搜索']('static/search.png')
+![](https://raw.githubusercontent.com/zhenruyan/epili/master/static/search.png)
+![](https://raw.githubusercontent.com/zhenruyan/epili/master/static/build.png)
 
 ###  贡献方法
 
